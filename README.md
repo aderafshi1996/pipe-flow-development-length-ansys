@@ -70,7 +70,7 @@ was modeled for the simulations.
 
 ### Geometry
 
-![Pipe Geometry](images/geometry/pipe-geometry.png)
+![Pipe Geometry](images/geometry/pipe-geometry.PNG)
 
 ---
 
