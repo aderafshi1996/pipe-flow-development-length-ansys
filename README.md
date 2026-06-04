@@ -80,11 +80,11 @@ A structured mesh was generated for the pipe domain to ensure stable and accurat
 
 ### Pipe Mesh
 
-![Pipe Mesh](images/mesh/pipe-mesh.png)
+![Pipe Mesh](images/mesh/pipe-mesh.PNG)
 
 ### Mesh Details
 
-![Mesh Details](images/mesh/mesh-details.png)
+![Mesh Details](images/mesh/mesh-details.PNG)
 
 ---
 
@@ -133,7 +133,7 @@ L = 0.065 × Re × D
 
 The velocity profile develops gradually from a uniform inlet profile to a fully developed parabolic profile.
 
-![Velocity Development](images/results/velocity-development-re100-re150-re200.png)
+![Velocity Development](images/results/velocity-development-re100-re150-re200.PNG)
 
 ---
 
@@ -141,7 +141,7 @@ The velocity profile develops gradually from a uniform inlet profile to a fully 
 
 The fully developed velocity distribution inside the pipe follows the expected parabolic behavior predicted by Hagen–Poiseuille theory.
 
-![Radial Velocity Profile](images/results/radial-velocity-profile-re100-re150-re200.png)
+![Radial Velocity Profile](images/results/radial-velocity-profile-re100-re150-re200.PNG)
 
 ---
 
@@ -151,7 +151,7 @@ The problem was also solved using ANSYS CFX for Reynolds number 100.
 
 The comparison between Fluent and CFX showed good agreement in predicting axial velocity development.
 
-![Fluent vs CFX](images/cfx-comparison/fluent-vs-cfx-re100.png)
+![Fluent vs CFX](images/cfx-comparison/fluent-vs-cfx-re100.PNG)
 
 ---
 
